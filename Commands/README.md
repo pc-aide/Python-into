@@ -12,4 +12,4 @@
 ## Functions
 |n|name|desc.|eg|O/P|
 |-|----|-----|--|---|
-|1|print||`print("Hello World")`|
+|1|print()||`print("Hello World")`|
