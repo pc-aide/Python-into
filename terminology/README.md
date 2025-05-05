@@ -9,4 +9,4 @@
 |2|traceback|error report|
 |3|interpreter|Python interpreter||
 |4|variables|<ins>var</ins><br/>Start with a letter or an underscore<br/><br/><ins>avoid</ins><br/>The variable name should be **lowercase**<br/><br/><ins>error</ins><br/>`1_message = "Hello"`|`message = "hello world"`<br>`print(message)`|<img src="https://i.imgur.com/p0nWDBJ.png">|
-|5|string||<ins>sing quote</ins><br/>`"This is a strings."`<br/><br/><ins>double quotes</ins><br/>`'This is also a string.'`|
+|5|string||<ins>single quote</ins><br/>`"This is a strings."`<br/><br/><ins>double quotes</ins><br/>`'This is also a string.'`|
