@@ -26,4 +26,4 @@ for i in range(30):
         print(i)
 ````
 
-* <details><summary>Answer</summary>True</details>
+* <details><summary>Answer</summary><img src="https://i.imgur.com/mfyZcAJ.png"></details>
