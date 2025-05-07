@@ -5,9 +5,11 @@
 3. `fullName`
 
 ## Console
-* At the end, display only the full name
+1. At the end, display only the full name
+2. Add the title method when displaying full_name
 
 ---
 
 ## Solutionnaire
-<details><summary>Answer</summary><img src="https://i.imgur.com/oscRiUY.png"></details>
+<details><summary>1. Answer</summary><img src="https://i.imgur.com/oscRiUY.png"></details>
+<details><summary>2. Answer</summary><img src="https://i.imgur.com/SaU8MW9.png"></details>
