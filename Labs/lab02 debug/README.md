@@ -25,3 +25,5 @@ for i in range(30):
     if est_premier(i):
         print(i)
 ````
+
+* <details><summary>Answer</summary>True</details>
