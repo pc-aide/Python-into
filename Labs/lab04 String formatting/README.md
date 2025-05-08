@@ -1,0 +1,9 @@
+# String formatting
+
+---
+
+## Goal
+
+---
+
+## Answer
