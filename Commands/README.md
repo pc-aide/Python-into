@@ -2,6 +2,13 @@
 
 ---
 
+## $env:path
+|n|name|desc.|eg|O/P|
+|-|----|-----|--|---|
+|1|||`$env:path -split ';' \| select-string "pyt"`|<img src="https://i.imgur.com/ga4OQbg.png">|
+
+---
+
 ## List
 |n|name|desc.|eg|O/P|
 |-|----|-----|--|---|
